@@ -1,4 +1,4 @@
-UPDATE YOUR MYSQL CREDENTIALS IN BASE_DIR/LITTLE_LEMON/SETTINGS.PY
+IMPORTANT: Update your MYSQL credentials in BASE_DIR/LittleLemon/settings.py
 
 Static index.html:
 /restaurant
