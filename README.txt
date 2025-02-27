@@ -11,7 +11,7 @@ APIs:
 /restaurant/booking/tables/<int:pk>
 
 Authentication:
-/api-token-auth
+restaurant/api-token-auth
 /auth/users
 /auth/users/me
 /auth/users/resend_activation
