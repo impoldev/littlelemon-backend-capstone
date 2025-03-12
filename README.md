@@ -1,6 +1,6 @@
 # Little Lemon - Back-End Developer Capstone
 
-Welcome to the **Little Lemon** restaurant backend, a capstone project for the Meta Back-End Developer certification. This project provides a set of APIs to manage the restaurant's menu, bookings, and authentication.
+Welcome to the **Little Lemon** restaurant backend, a capstone project for the Meta Back-End Developer certification hosted in Coursera platform. This project provides a set of APIs to manage the restaurant's menu, bookings, and authentication.
 
 ## Features
 
@@ -100,10 +100,6 @@ Welcome to the **Little Lemon** restaurant backend, a capstone project for the M
 ## Usage
 
 Once the server is running, you can access the APIs using Postman, cURL, or a web browser.
-
-## License
-
-This project is for educational purposes.
 
 ---
 
